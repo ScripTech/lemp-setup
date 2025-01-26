@@ -1,7 +1,7 @@
 #!bash
 # Install LEMP stack on Linux
 # @Author: Edilson Mucanze
-# @linkedin:
+# @linkedin: https://www.linkedin.com/in/edilson-d-mucanze-550707b8/
 # Version: 1.0
 
 # Installing Lemp
